@@ -1,8 +1,10 @@
 # Hi, I'm Antonio 👋
 
-I'm an **Implementation Analyst and Full-Stack Developer** from Brazil, working at the intersection of software development, industrial operations, deployment, technical support, and AI systems.
+**Implementation Analyst · Full-Stack Developer · AI & Automation**
 
-## What I work with
+I'm a software professional from Brazil working at the intersection of full-stack development, industrial operations, deployment, technical support, and AI systems.
+
+## Core stack
 
 - **Frontend:** React, TypeScript, JavaScript, Vite, PWA, IndexedDB
 - **Backend:** Node.js, Express, PostgreSQL, Prisma ORM, REST APIs, Zod, JWT
@@ -17,19 +19,19 @@ I work on an industrial traceability platform used in a live paper manufacturing
 
 - ~**75 users**
 - **6 operational areas**
-- **1,162 jumbo reels** recorded in the last 30 days
+- **1,162 jumbo reels recorded in the last 30 days**
 - ~**38 reels/day**
 
-My role includes requirements gathering, full-stack development, deployment, operator training, production support, incident diagnosis, data reconciliation, and continuous improvements.
+My role includes requirements gathering, full-stack development, deployment, operator training, production support, incident diagnosis, data reconciliation, and continuous improvement.
 
 > The production system itself is proprietary, so its source code is not published here.
 
 ## Featured Projects
 
 ### 🏭 Industrial Traceability Platform
-Production case study of an industrial traceability platform built and deployed for a live paper manufacturing environment.
+Case study of a full-stack industrial traceability platform built and deployed for a live paper manufacturing environment.
 
-**Scale:** ~75 users · 6 operational areas · 1,162 reels/month  
+**Scale:** ~75 users · 6 operational areas · 1,162 reels in the last 30 days  
 **Stack:** React · TypeScript · Node.js · PostgreSQL · Prisma · Docker · Nginx
 
 [View the case study →](https://github.com/tombemol/industrial-traceability-case-study)
@@ -49,7 +51,7 @@ Case study of my personal AI assistant and automation platform, focused on persi
 
 ## Contact
 
-- Email: **tomrobsonsilva85@gmail.com**
-- GitHub: **@tombemol**
+- Email: [tomrobsonsilva85@gmail.com](mailto:tomrobsonsilva85@gmail.com)
+- GitHub: [@tombemol](https://github.com/tombemol)
 - Location: Bahia, Brazil
 - Open to remote international opportunities
