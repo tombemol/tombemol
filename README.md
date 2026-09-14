@@ -23,19 +23,15 @@ My role includes requirements gathering, full-stack development, deployment, ope
 
 > The production system itself is proprietary, so its source code is not published here.
 
-## J.A.R.B.A.S.
+## Featured Projects
 
-**J.A.R.B.A.S.** is my personal AI assistant and automation platform.
+### Industrial Traceability Platform
+Production case study of an industrial traceability platform built and deployed for a live paper manufacturing environment.
 
-It explores:
+**Scale:** ~75 users · 6 operational areas · 1,162 reels/month  
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Prisma · Docker · Nginx
 
-- AI agents and tool orchestration
-- Persistent memory
-- Messaging integrations
-- WhatsApp and Telegram gateways/bridges
-- Auditing and controlled tool execution
-- Automated workflows
-- Reliability-focused Node.js/TypeScript architecture
+[View the case study →](https://github.com/tombemol/industrial-traceability-case-study)
 
 ## Languages
 
